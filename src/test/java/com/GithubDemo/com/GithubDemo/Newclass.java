@@ -3,7 +3,7 @@ package com.GithubDemo.com.GithubDemo;
 public class Newclass {
   
 	char a = 'f';
-	
+	int p = 10;
 	String str = "Welcome to AppDividend";
     // This will return the first char of the string
     char ch1 = str.charAt(0);
